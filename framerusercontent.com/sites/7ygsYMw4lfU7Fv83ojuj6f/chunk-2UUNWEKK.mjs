@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-X6VBYSRU.mjs";function r(a,e){return{bodyClassName:"framer-body-kabKuGVWo",breakpoints:[{hash:"mstv1r"}],description:t(a,e).description,elements:{},title:t(a,e).title||"\u4E3B\u9875",viewport:"width=1920"}}var d=1,m={exports:{default:{type:"function",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,d as b,m as c};
+//# sourceMappingURL=chunk-2UUNWEKK.mjs.map

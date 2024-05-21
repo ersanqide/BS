@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-X6VBYSRU.mjs";function r(e,a){return{bodyClassName:"framer-body-I9ByJ6Zwe",breakpoints:[{hash:"1d1wubi"}],description:t(e,a).description,elements:{},title:t(e,a).title||"\u5E72\u9884\u6A21\u5F0F",viewport:"width=1920"}}var d=1,m={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"function",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,d as b,m as c};
+//# sourceMappingURL=chunk-CVDFJCZ2.mjs.map
